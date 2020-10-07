@@ -6,7 +6,9 @@
 
 
 # HacktoberFest 2020
+<img src="assets/images/WelcomePage.jpg" width=200/>
 <img src="images/assets/images/HcktFEST.jpg"/>
+
 
 
 
