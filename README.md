@@ -2,15 +2,44 @@
 
 A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# framework
+~ Flutter framework
+
+## Screenshots
+
+  | Home Page                                                    | Category Screen                                                 | Navigation Drawer                                                 |
+| -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| <img src="assets/images/WelcomePage.jpg" width=200 alt="Home Page"> | <img src="images/DevelopersScreen.jpg" width=200 alt="Category Screen"> | <img src="assets/images/DeveloperInfoScreen.jpg" width=200 alt="Navigation Drawer"> |
+
+
+
+
+
+## Connect with me on LinkedIn
+
+[My LinkedIn Account](https://www.linkedin.com/in/sarvesh-nath-tiwari-5575a218a)
+
+## *Developed and managed by-* ✨
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+
+  <tr>
+    <td align="center"><a href="https://github.com/sarveshsrv"><img src="https://he-s3.s3.amazonaws.com/media/avatars/sarveshsrv/resized/180/5a3aae9img_20190112_144045ff.jpg" width="100px;" alt=""/><br /><sub><b>Sarvesh Nath Tiwari</b></sub></a><br /><a href="https://github.com/sarveshsrv?tab=repositories" title="Code">💻 📖 📆 👀</a></td>
+  </tr>
+  
+</table>
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
