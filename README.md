@@ -13,12 +13,12 @@
 
 # IOSDMaitApp
 
-<img src="assets/images/logoNew.png" width="75%" />
+<img src="assets/images/logoNew.png" />
 
 
 
 
-- A repository based on flutter framework made for the flutter developers to contribute in this project as well as Hactoberfest 2020.
+- A repository based on flutter framework made for the flutter developers to contribute in this project asa part of Hactoberfest 2020.
 - In this repository each contributor will be adding their peice of information(info section) and get hands on experience with creating PRs and learn about brnaching, merging, etc.
 
 
@@ -67,23 +67,23 @@ Now create a branch using the `git checkout` command:
 1. Open the project in _Android Studio_ or
    _VS Code_. Make sure you are not on _master_ branch.
 
-2. Look for `assets/profilePic` folder and drop your profile picture over there. It would be better if you can keep the name of your image file as
+2. Search for `assets/profilePic` folder and drop your profile picture over there. It would be better if you can keep the name of your image file as
    yourname.fileformat
 
-3. Look for  ` *lib/completeMemberInfo.dart* `.  Make a copy of the form as the one created above. Comments are added over there to help you get it done. Make use of and modify the file with your details.
+3. Search for  ` lib/completeMemberInfo.dart `.  Make a copy of the form as the one created above. Comments are added over there to help you get it done. Make use of and modify the file with your details.
 
 
 | Parameters        |  Info                                        |
 | ----------------- | -------------------------------------------- |
 | name              | Your Full name                               |
 | year              | Your present year of college                 |
-| department        | Your Stream of graduation                    |
+| department        | Your branch                                  |
 | profilePath       | The path where you stored your profile photo |
 | aboutMe           | A brief description about yourself           |
 | facebookUrl       | Your Facebook account url                    |
 | githubUrl         | Your Github account url                      |
 | linkedInUrl       | Your LinkedIn account url                    |
-| status            | A 2-3 words techincal expertise              |
+| status            | Write your techincal expertise in 2-3 words  |
 
 ---
 
@@ -115,7 +115,7 @@ Go to your repository on GitHub, you'll see a `Compare & pull request` button. C
 Now submit the pull request
 
 
-Congrats! You have made your first contribution!
+Congrats! You have made your first contribution! Happy Coding!
 
 ---
 
@@ -143,7 +143,3 @@ Congrats! You have made your first contribution!
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-
-
-
-<img src="images/assets/images/HcktFEST.jpg" width="25%"/>
