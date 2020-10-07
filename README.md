@@ -11,12 +11,30 @@
 
 
 
+
+
+
 # IOSDMaitApp
 
-<img src="images/assets/images/logoNew.png" />
+<img src="images/assets/images/logoNew.png" width="25%" />
 
-- A repository on flutter framework for ApplicationDevelopment for developers to contribute.
-- In this repository each contributor will be adding their peice of information(an about kinda section) and get hands on experience with creating PRs and learn about brnaching, merging, etc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- A repository based on flutter framework made for the flutter developers to contribute in this project as well as Hactoberfest 2020.
+- In this repository each contributor will be adding their peice of information(info section) and get hands on experience with creating PRs and learn about brnaching, merging, etc.
 
 
 
@@ -51,7 +69,7 @@
 
 Change to the repository directory on your computer (if you are not already there):
 
-`cd AppDev-Hacktoberfest`
+`cd IOSDMaitApp`
 
 Now create a branch using the `git checkout` command:
 
@@ -67,20 +85,20 @@ Now create a branch using the `git checkout` command:
 2. Look for `assets/profilePic` folder and drop your profile picture over there. It would be better if you can keep the name of your image file as
    yourname.fileformat
 
-3. Look for ` *lib/completeMemberInfo.dart* `. Make a copy of the form as the one created above. Comments are added over there to help you get it done. Make use of and modify the file with your details.
+3. Look for  ` *lib/completeMemberInfo.dart* `.  Make a copy of the form as the one created above. Comments are added over there to help you get it done. Make use of and modify the file with your details.
 
 
-| Parameters         |  Info                                         |
+| Parameters        |  Info                                        |
 | ----------------- | -------------------------------------------- |
 | name              | Your Full name                               |
-| year              | Your present year                            |
+| year              | Your present year of college                 |
 | department        | Your Stream of graduation                    |
 | profilePath       | The path where you stored your profile photo |
 | aboutMe           | A brief description about yourself           |
 | facebookUrl       | Your Facebook account url                    |
 | githubUrl         | Your Github account url                      |
 | linkedInUrl       | Your LinkedIn account url                    |
-| status            | A 2-3 words techincal expertise                 |
+| status            | A 2-3 words techincal expertise              |
 
 ---
 
@@ -139,6 +157,7 @@ Congrats! You have made your first contribution!
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 
 
