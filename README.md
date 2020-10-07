@@ -6,31 +6,14 @@
 
 
 # HacktoberFest 2020
-<img src="assets/images/WelcomePage.jpg" width=200/>
-<img src="images/assets/images/HcktFEST.jpg"/>
 
-
-
-
-
+<img src="assets/images/HcktFEST.jpg"/>
 
 
 
 # IOSDMaitApp
 
-<img src="images/assets/images/logoNew.png" width="25%" />
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="assets/images/logoNew.png" width="75%" />
 
 
 
