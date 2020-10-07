@@ -4,7 +4,7 @@ import 'member.dart';
 import 'package:IOSDMaitApp/completeMemberInfo.dart';
 
 class DevScreen extends StatelessWidget {
-  List<Member> members = AllMembers.members;
+ List<Member> members = AllMembers.members;
   @override
   Widget build(BuildContext context) {
     return Container(

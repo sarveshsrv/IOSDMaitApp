@@ -38,6 +38,7 @@ class TileStructure extends StatelessWidget {
             subtitle: Text(
               member.status,
               style: TextStyle(
+                fontSize: 13.5,
                 color: Colors.grey[800],
               ),
             ),

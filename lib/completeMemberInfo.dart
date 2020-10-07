@@ -35,7 +35,7 @@ class AllMembers {
         department: 'Computer Science',
         profilePic: 'assets/profiles/Sarvesh.png',
         aboutMe:
-            'I am a flutter developer.Efficient coder in C++ ,java and dart. Good understanding of Data Structures & Algorithms.I focus on building life rather than a resume.',
+            'I am a flutter developer.Efficient coder in  C++ , java and dart. Good understanding of Data Structures & Algorithms.I focus on building life rather than a resume.',
         facebookURL:
             'https://www.facebook.com/people/Sarvesh-Tiwari/100004745170873',
         githubURL: 'https://github.com/sarveshsrv',
