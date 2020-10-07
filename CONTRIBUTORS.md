@@ -6,6 +6,7 @@ However the guidelines are as follows:
 1)  *lib/completeMemberInfo.dart*   is the only file which you need to edit in order to contribute to this project. However, you can always look at other files in the codebase incase you are inquisitive enough.
 
 2) Now, What to edit in this file?
+
   All you need is to create one more member object below within the list _members and provide all the details about yourself. Also, before this make sure your profile picture is in the   *assets/profilePic*  folder.  
   
 Open  *lib/completeMemberInfo.dart*  for more clear understanding.
