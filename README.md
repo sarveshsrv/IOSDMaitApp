@@ -1,5 +1,4 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
@@ -18,7 +17,7 @@
 
 
 
-- A repository based on flutter framework made for the flutter developers to contribute in this project asa part of Hactoberfest 2020.
+- A repository based on flutter framework made for the flutter developers to contribute in this project as a part of Hactoberfest 2020.
 - In this repository each contributor will be adding their peice of information(info section) and get hands on experience with creating PRs and learn about brnaching, merging, etc.
 
 
@@ -115,7 +114,7 @@ Go to your repository on GitHub, you'll see a `Compare & pull request` button. C
 Now submit the pull request
 
 
-Congrats! You have made your first contribution! Happy Coding!
+Congrats!  You have made your first contribution!  Happy Coding!
 
 ---
 
