@@ -28,7 +28,7 @@ flutter:
   assets:
     - assets/images/
     - assets/icons/
-    - assets/profiles/
+    - assets/profileSPic/
 
   fonts:
     - family: Galada
