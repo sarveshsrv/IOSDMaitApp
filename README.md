@@ -30,6 +30,7 @@
 | <img src="assets/images/WelcomePage.jpg" width=260 alt="Home Page"> | <img src="assets/images/DevelopersScreen.jpg" width=260 alt="Category Screen"> | <img src="assets/images/DeveloperInfoScreen.jpg" width=260 alt="Navigation Drawer"> |
 
 
+## Go through the  `CONTRIBUTORS.md`  file  to get to know about how and what may you contribute in this project.
 
 ## Steps for your contribution:
 
