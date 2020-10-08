@@ -28,7 +28,7 @@
 
   | Welcome Screen                                                   | Developers Screen                                                 | Developer's Info                                              |
 | -------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| <img src="assets/images/WelcomePage.jpg" width=200 alt="Home Page"> | <img src="assets/images/DevelopersScreen.jpg" width=200 alt="Category Screen"> | <img src="assets/images/DeveloperInfoScreen.jpg" width=200 alt="Navigation Drawer"> |
+| <img src="assets/images/WelcomePage.jpg" width=300 alt="Home Page"> | <img src="assets/images/DevelopersScreen.jpg" width=200 alt="Category Screen"> | <img src="assets/images/DeveloperInfoScreen.jpg" width=200 alt="Navigation Drawer"> |
 
 
 
