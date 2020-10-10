@@ -41,7 +41,7 @@ class MemberDetailScreen extends StatelessWidget {
       child: Container(
         // color: Colors.deepPurple,
         margin: EdgeInsets.only(left: 8, right: 8, top: 20),
-        height: MediaQuery.of(context).size.height / 1.3,
+        height: MediaQuery.of(context).size.height / 1.19,
         width: MediaQuery.of(context).size.width,
         child: Card(
           shape:
@@ -123,7 +123,7 @@ class MemberDetailScreen extends StatelessWidget {
                     )),
                   ),
                   Divider(
-                    height: 15,
+                    height: 6,
                     thickness: 4,
                     indent: 70,
                     endIndent: 70,
@@ -134,14 +134,13 @@ class MemberDetailScreen extends StatelessWidget {
                     child: Container(
                       child: Text(
                         member.aboutMe,
-                        maxLines: 8,
+                        maxLines: 5,
                         textAlign: TextAlign.center,
                         overflow: TextOverflow.ellipsis,
                         style: TextStyle(
-                          // fontFamily: 'Galada',
                           fontFamily: 'LobsterTwo',
                           fontSize: 16,
-                          letterSpacing: 0.5,
+                          letterSpacing: 0.4,
                           //fontWeight: FontWeight.w900,
                         ),
                       ),
@@ -154,7 +153,7 @@ class MemberDetailScreen extends StatelessWidget {
                     endIndent: 30,
                   ),
                   Padding(
-                    padding: const EdgeInsets.all(15.0),
+                    padding: const EdgeInsets.all(10.0),
                     child: Row(
                       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                       children: <Widget>[

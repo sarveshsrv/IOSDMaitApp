@@ -27,7 +27,7 @@ class _BodyState extends State<Body> {
           SizedBox(height: 35),
           Container(
             //height: 10,
-            margin: EdgeInsets.fromLTRB(18, 0.8, 18, 1.6),
+            margin: EdgeInsets.fromLTRB(15, 0.6, 15, 1.6),
             padding: EdgeInsets.all(4),
             child: Image.asset('assets/images/logoNew.png'),
           ),
@@ -65,8 +65,8 @@ class _BodyState extends State<Body> {
                           ),
                         ),
                         Divider(
-                          thickness: 5,
-                          height: 45,
+                          thickness: 4,
+                          height: 40,
                           indent: 50,
                           endIndent: 50,
                         ),
@@ -74,14 +74,15 @@ class _BodyState extends State<Body> {
                           padding: const EdgeInsets.fromLTRB(10, 0, 10, 3),
                           child: Container(
                             child: Text(
-                              "We provide a platform for developers to come together and create projects, discuss ideas and learn in a competitive healthy environment.We mentor students and organize workshops that covers topics like Web & Mobile Development, Machine Learning, Artificial Intelligence, Cloud, and the other latest technologies.",
+                              "We provide a platform for developers to come together and create projects, discuss ideas and learn in a competitive healthy environment.We mentor students and organize workshops that covers topics like Web & App Development, Machine Learning, AI, and the other latest technologies.",
                               maxLines: 10,
                               textAlign: TextAlign.center,
                               overflow: TextOverflow.ellipsis,
                               style: TextStyle(
-                                fontSize: 15,
+                                fontSize: 13.5,
+                                //color: Colors.grey,
                                 //fontStyle: FontStyle.italic,
-                                fontWeight: FontWeight.bold,
+                                fontWeight: FontWeight.normal,
                               ),
                             ),
                           ),
@@ -102,8 +103,8 @@ class _BodyState extends State<Body> {
           ),
           Container(
             //height: size.height / 2.3,
-            width: size.width / 1.15,
-            height: 100,
+            width: size.width / 1.13,
+            height: 92,
 
             child: _socilaMediaHandles(),
             //color: Colors.red,
@@ -117,7 +118,7 @@ class _BodyState extends State<Body> {
     var size = MediaQuery.of(context).size;
     return Container(
       margin: EdgeInsets.only(left: 2, right: 2, top: 6),
-      height: MediaQuery.of(context).size.height / 7,
+      height: MediaQuery.of(context).size.height / 6,
       width: MediaQuery.of(context).size.width,
       child: Card(
         color: Colors.teal,
